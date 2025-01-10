@@ -17,4 +17,13 @@ public class SampleGIT {
 		System.out.println("Method3");
 	}
 
+	private void meth4() {
+
+		System.out.println("Method4");
+	}
+	
+	private void meth5() {
+
+		System.out.println("Method5");
+	}
 }
